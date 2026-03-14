@@ -30,6 +30,7 @@ staged
 
 
 git add file_name
+git .
 
 git commit -m "some message"
 
@@ -41,3 +42,5 @@ git remote add origin https://github.com/Indrajeet230206/github.git
 git remote -v
 
 git branch -M main -> to rename branch
+
+git push -u origin main
