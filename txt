@@ -44,3 +44,6 @@ git remote -v
 git branch -M main -> to rename branch
 
 git push -u origin main
+now we can use only git push instead of git push orogin main
+
+git commit -am "added dot" -> commit and add simultaneously
