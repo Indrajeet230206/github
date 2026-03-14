@@ -1,0 +1,38 @@
+git is free and open source version control system
+
+git --version
+git -> it shows different commands
+
+git config --global user.name "Indrajeet230206"
+git config --global user.name "nadargeindrajeet@gmail.com"
+
+git config --list
+
+git clone https://github.com/Indrajeet230206/delta.git
+
+//terminal
+ls -> show all folders inside folder
+ls -a   -> hidden files
+
+git status
+
+untrakced
+these are new files -> add the file
+
+unmodified (normal stage)
+ -> edit the file
+
+modified
+ -> stage the file
+
+staged
+ <- commit (unmodified)
+
+
+git add file_name
+
+git commit -m "some message"
+
+git push origin main
+
+git init -> initialize empty git repository
